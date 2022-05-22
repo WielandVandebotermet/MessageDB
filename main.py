@@ -3,7 +3,7 @@ from kivymd.app import MDApp
 import pymongo
 
 
-conn_str = "mongodb+srv://Wieland:BloodLust2003.@cluster0.m6twp.mongodb.net/?retryWrites=true&w=majority"
+conn_str = "mongodb+srv://Wieland:<password>@cluster0.m6twp.mongodb.net/?retryWrites=true&w=majority"
 client = pymongo.MongoClient(conn_str, serverSelectionTimeoutMS=5000)
 db = client.ProffesionalSkills
 
