@@ -10,3 +10,6 @@ android download dropbox: https://www.dropbox.com/s/nydrb8stnfs57he/MessageApp-0
 
 de Windows build werkt.
 en de android build die niet werkt omdat MongoDB geen android support heeft.
+
+
+LINK YOUTUBE VIDEO: https://youtu.be/ZimWxoFLyjI
